@@ -1,2 +1,2 @@
-# OOPEXERCISES
-This contain all of my exercises on OOP
+# OOPEXERCISE1
+This contain my exercises in OOP1
